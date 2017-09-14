@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ejemplo_async_task</string>
+    <string name="str_1">Probar otra cosa mientas carga</string>
+</resources>
